@@ -29,6 +29,5 @@ All the files in this repository are covered by the licence in the file LICENSE.
 
 Under the -BY clause, we request attribution for subsequent use of these files.
 
-For publications using these files, the primary current citation is:
-(article submitted)
+For publications using these files, the primary current citation is: https://pubs.acs.org/doi/10.1021/acschembio.0c00179
 
