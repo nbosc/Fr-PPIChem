@@ -3,7 +3,7 @@ Scripts related to the Fr-PPIChem project for the PPI-HitProfiler models.
 
 The dataset used to train the models is not available at the moment.
 
-For more details about the methodology, see: (article submitted)
+For more details about the methodology, see: https://pubs.acs.org/doi/10.1021/acschembio.0c00179
 
 ## QSAR
 Knime workflow to train J48, Jrip and RF models. SVM R model is simply loaded here for simplicity.
